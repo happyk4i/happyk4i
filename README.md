@@ -94,25 +94,23 @@ I've built and shipped manga reading platforms, event management systems, compan
 
 ## 📂 My Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [MangaSocial](https://github.com/happyk4i/mangasocial) | Social manga reading platform with feed & scoring | TypeScript |
-| [MangaRead](https://github.com/happyk4i/MangaRead) | Manga reader application | TypeScript |
-| [Event Management Website](https://github.com/happyk4i/Event-Management-Website) | Event management & registration web app | TypeScript |
-| [Company Profile](https://github.com/happyk4i/Company-Profile) | Company profile website | TypeScript |
-| [Portfolio](https://github.com/happyk4i/Portfolio) | Personal portfolio website | TypeScript |
-| [ClipViral](https://github.com/happyk4i/clipviral) | Video clip automation tool | HTML |
-| [Anomaly Game](https://github.com/happyk4i/AnomalyGameRoblox) | Roblox game built with Luau | Luau |
-| [Dominoes](https://github.com/happyk4i/dominoes) | Dominoes game | CSS |
+| | |
+|---|---|
+| **[MangaSocial](https://github.com/happyk4i/mangasocial)** — Social manga platform<br>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | **[MangaRead](https://github.com/happyk4i/MangaRead)** — Manga reader app<br>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
+| **[Event Management](https://github.com/happyk4i/Event-Management-Website)** — Event web app<br>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | **[Company Profile](https://github.com/happyk4i/Company-Profile)** — Company website<br>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
+| **[Portfolio](https://github.com/happyk4i/Portfolio)** — Personal portfolio<br>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | **[ClipViral](https://github.com/happyk4i/clipviral)** — Video clip automation<br>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
+| **[Anomaly Game](https://github.com/happyk4i/AnomalyGameRoblox)** — Roblox game<br>![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge) | **[Dominoes](https://github.com/happyk4i/dominoes)** — Dominoes game<br>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
 
 <br>
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=happyk4i&theme=midnight-purple&show_icons=true&hide_border=true" alt="happyk4i stats" />
+<p align="center">
+  <img src="https://img.shields.io/github/followers/happyk4i?style=for-the-badge&label=Followers&color=7F3FBF" alt="followers" />
+  <img src="https://img.shields.io/github/stars/happyk4i?style=for-the-badge&label=Total%20Stars&color=7F3FBF" alt="total stars" />
+  <img src="https://img.shields.io/github/repo-count/happyk4i?style=for-the-badge&label=Repos&color=7F3FBF" alt="repos" />
   <img src="https://streak-stats.demolab.com/?user=happyk4i&theme=midnight-purple&hide_border=true" alt="happyk4i streak" />
-</div>
+</p>
 
 <br>
 
