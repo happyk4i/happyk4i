@@ -29,6 +29,12 @@
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
+## 🧑‍💻 About Me
+
+I'm a full-stack developer who enjoys building products end-to-end — from database schema to polished UI. I focus on **web applications, real-time features, automation, and AI-powered tools** that solve real problems.
+
+I've built and shipped manga reading platforms, event management systems, company profiles, video clip automation tools, and more. I like working on the whole stack, learning new tools quickly, and turning ideas into working products.
+
 - 🔭 I'm currently working on **AI-powered learning platforms and automation tools**
 
 - 🌱 I'm currently learning **DevOps, system design, and AI agent workflows**
@@ -47,39 +53,62 @@
 </p>
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+## 🛠️ Tech Stack
 
-- Backend
+**Frontend**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css" />
+  </a>
+</p>
+
+**Backend**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,py,express,prisma" />
   </a>
 </p>
 
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind" />
-  </a>
-</p>
-
-- Database
+**Database**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mysql" />
   </a>
 </p>
 
-- Tools & DevOps
+**Tools & DevOps**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,vercel" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,notion,linux,bash,nginx,cloudflare,vercel" />
+  </a>
+</p>
+
+**Automation & Scraping**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,selenium,discord" />
   </a>
 </p>
 
 <br/>
 
-<h3 align="left">GitHub Stats:</h3>
+## 📂 My Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [MangaSocial](https://github.com/happyk4i/mangasocial) | Social manga reading platform with feed & scoring | TypeScript |
+| [MangaRead](https://github.com/happyk4i/MangaRead) | Manga reader application | TypeScript |
+| [Event Management Website](https://github.com/happyk4i/Event-Management-Website) | Event management & registration web app | TypeScript |
+| [Company Profile](https://github.com/happyk4i/Company-Profile) | Company profile website | TypeScript |
+| [Portfolio](https://github.com/happyk4i/Portfolio) | Personal portfolio website | TypeScript |
+| [ClipViral](https://github.com/happyk4i/clipviral) | Video clip automation tool | HTML |
+| [Anomaly Game](https://github.com/happyk4i/AnomalyGameRoblox) | Roblox game built with Luau | Luau |
+| [Dominoes](https://github.com/happyk4i/dominoes) | Dominoes game | CSS |
+
+<br>
+
+## 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=happyk4i&theme=midnight-purple&show_icons=true&hide_border=true" alt="happyk4i stats" />
   <img src="https://streak-stats.demolab.com/?user=happyk4i&theme=midnight-purple&hide_border=true" alt="happyk4i streak" />
